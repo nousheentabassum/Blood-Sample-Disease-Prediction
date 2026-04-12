@@ -22,5 +22,9 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - Best model: SVM
 - Accuracy: ~53%
 - F1 Score: ~0.55
-- <img width="3768" height="432" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/d27d0d5d-a576-44f6-b4e9-de47a2d9cf73" />
+
+  ## Architecture Diagram
+  
+<img width="4392" height="650" alt="mermaid-diagram (1)" src="https://github.com/user-attachments/assets/69e17227-f1a2-4bb2-bfc2-f2760adf5420" />
+
 
