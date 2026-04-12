@@ -23,7 +23,7 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - Accuracy: ~53%
 - F1 Score: ~0.55
 
-  ## Architecture Diagram
+## Architecture Diagram
   
 <img width="4392" height="650" alt="mermaid-diagram (1)" src="https://github.com/user-attachments/assets/69e17227-f1a2-4bb2-bfc2-f2760adf5420" />
 
